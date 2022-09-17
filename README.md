@@ -18,5 +18,5 @@
 - Clarion 6.3 and newer.
 - ABC and Legacy template chains.
 
-## Price
-$50
+
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1657&q=1&)
